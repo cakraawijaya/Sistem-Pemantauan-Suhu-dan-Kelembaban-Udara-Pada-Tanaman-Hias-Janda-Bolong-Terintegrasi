@@ -14,7 +14,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 | --- | --- |
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
 | Editor Kode | • Arduino IDE<br>• Visual Studio Code |
-| Dukungan Aplikasi | Bot Telegram |
+| Dukungan Aplikasi | • Bot Telegram<br>• Xampp |
 | Driver | CH340 USB Driver |
 | Platform IoT | ThingSpeak |
 | Protokol Komunikasi | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |

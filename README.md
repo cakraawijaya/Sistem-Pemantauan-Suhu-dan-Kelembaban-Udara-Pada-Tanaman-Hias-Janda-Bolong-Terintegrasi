@@ -14,7 +14,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 | --- | --- |
 | Development Board | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | • Arduino IDE<br>• Visual Studio Code |
-| Application Support | Telegram Bot |
+| Application Support | • Telegram Bot<br>• Xampp |
 | Driver | CH340 USB Driver |
 | IoT Platform | ThingSpeak |
 | Communications Protocol | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
