@@ -19,7 +19,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 | Platform IoT | ThingSpeak |
 | Protokol Komunikasi | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
 | Arsitektur IoT | 4 Lapisan |
-| Kerangka Kerja | Bootstrap |
+| Kerangka Kerja | • Bootstrap<br>• Font-Awesome |
 | Bahasa Pemrograman | • C/C++<br>• JavaScript<br>• PHP |
 | Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• ThingSpeak<br>• DHT_sensor_library<br>• CTBot<br>• ArduinoJson |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
@@ -44,6 +44,16 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 
    ```
    https://bit.ly/CH340_USB_Driver
+   ```
+
+   </td></tr></table><br>
+
+3. XAMPP dengan PHP versi 8
+
+   <table><tr><td width="810">
+
+   ```
+   https://bit.ly/XAMPP_PHP8_Installer
    ```
 
    </td></tr></table>

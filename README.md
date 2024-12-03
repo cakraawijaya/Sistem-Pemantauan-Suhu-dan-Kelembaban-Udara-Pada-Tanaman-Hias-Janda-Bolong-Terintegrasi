@@ -19,7 +19,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 | IoT Platform | ThingSpeak |
 | Communications Protocol | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
 | IoT Architecture | 4 Layer |
-| Framework | Bootstrap |
+| Framework | • Bootstrap<br>• Font-Awesome |
 | Programming Language | • C/C++<br>• JavaScript<br>• PHP |
 | Arduino Library | • ESP8266WiFi (default)<br>• ThingSpeak<br>• DHT_sensor_library<br>• CTBot<br>• ArduinoJson |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
@@ -44,6 +44,16 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 
    ```
    https://bit.ly/CH340_USB_Driver
+   ```
+
+   </td></tr></table><br>
+
+3. XAMPP with PHP version 8
+
+   <table><tr><td width="810">
+
+   ```
+   https://bit.ly/XAMPP_PHP8_Installer
    ```
 
    </td></tr></table>
