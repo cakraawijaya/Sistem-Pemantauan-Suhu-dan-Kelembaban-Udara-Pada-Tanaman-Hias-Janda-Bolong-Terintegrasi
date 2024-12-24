@@ -61,7 +61,24 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 <br><br>
 
 ## Rancangan Proyek
-<img width="840" src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram">
+<table>
+<tr>
+<th width="420">Infrastruktur</th>
+<th width="420">Diagram Ilustrasi</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Pengkabelan</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="device-wiring"></td>
+</tr>
+</table>
 
 <br><br>
 
