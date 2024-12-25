@@ -18,7 +18,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 | Driver | CH340 USB Driver |
 | IoT Platform | ThingSpeak |
 | Communications Protocol | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
-| IoT Architecture | 4 Layer |
+| IoT Architecture | 3 Layer |
 | Framework | • Bootstrap<br>• Font-Awesome |
 | Programming Language | • C/C++<br>• JavaScript<br>• PHP |
 | Arduino Library | • ESP8266WiFi (default)<br>• ThingSpeak<br>• DHT_sensor_library<br>• CTBot<br>• ArduinoJson |

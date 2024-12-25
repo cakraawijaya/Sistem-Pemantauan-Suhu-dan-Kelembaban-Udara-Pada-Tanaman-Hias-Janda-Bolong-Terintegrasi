@@ -18,7 +18,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 | Driver | CH340 USB Driver |
 | Platform IoT | ThingSpeak |
 | Protokol Komunikasi | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
-| Arsitektur IoT | 4 Lapisan |
+| Arsitektur IoT | 3 Lapisan |
 | Kerangka Kerja | • Bootstrap<br>• Font-Awesome |
 | Bahasa Pemrograman | • C/C++<br>• JavaScript<br>• PHP |
 | Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• ThingSpeak<br>• DHT_sensor_library<br>• CTBot<br>• ArduinoJson |
