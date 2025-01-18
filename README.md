@@ -43,7 +43,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table><br>
