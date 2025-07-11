@@ -111,11 +111,11 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
       How to setup the ``` NodeMCU V3 ESP8266 Lolin ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
          
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp8266 ```. 
       
-      • Then click ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
+      • Then selecting a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
 
       </td></tr>
    </table><br>
