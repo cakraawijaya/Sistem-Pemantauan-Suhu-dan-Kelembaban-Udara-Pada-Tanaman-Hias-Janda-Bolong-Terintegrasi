@@ -111,11 +111,11 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
       Cara mengatur board ``` NodeMCU V3 ESP8266 Lolin ```
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
          
       • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp8266 ```. 
       
-      • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
+      • Kemudian pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
 
       </td></tr>
    </table><br>
